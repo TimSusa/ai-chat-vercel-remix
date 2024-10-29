@@ -12,6 +12,9 @@ This repository contains an AI-powered chat application built with Remix and lev
 
 - Environment Variable Support: API keys and other sensitive information are handled securely through environment variables, ensuring best practices for security.
 
+## Screenshot:
+<img width="1104" alt="Screenshot 2024-10-28 at 14 33 25" src="https://github.com/user-attachments/assets/1bb996d7-a502-4661-900e-fd4de35a1ee3">
+
 ## Project Setup
 
 - Install Dependencies: Run
